@@ -1,0 +1,7 @@
+stage1=input()
+stage2=input()
+stage3=input()
+stage4=input()
+stage5=input()
+stage6=input()
+print(stage1,stage2,stage3,stage4,stage5,stage6,sep = ' => ')
